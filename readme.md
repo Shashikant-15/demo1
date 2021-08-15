@@ -1,7 +1,9 @@
-# showing you how to git from vs code
-just learn markdown
+# made by ShashiKant Tanti
+for Knoldus intern program
 
+completed tasks
 - simple source control
-- web work
+- presentation on git about ppt
+- tatti phelana
 
 [google](https://google.com)
